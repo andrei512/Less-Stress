@@ -2,4 +2,18 @@
 * Great artists ship
 * Abstractions should not limit inherit functionality
 * Generated code must be pretty
-* For every day of excess, a day of discipline is required, for I am the lord!
+* For every day of excess, a day of discipline is required, for I am the lord(
+```
+<ref id="Afv-Fe-FgS">
+```
+)!
+
+
+
+
+
+``` xml
+<array name="references" id="Hzt-veQ-GEr">
+  <object name="lord get shit done" id="Afv-Fe-FgS">
+</array>
+```
