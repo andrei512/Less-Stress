@@ -5,7 +5,7 @@ The framework that works for you !
 
 ## Xibbler
 ### Generating Xibs
-### Injectig Code
+### Injecting Code
 
 ## Blocking
 ## Koder
